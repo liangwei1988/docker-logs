@@ -1,0 +1,113 @@
+3月 07 00:00:01 jy-server23 dockerd-current[3475]: time="2018-03-07T00:00:01.016263351+08:00" level=info msg="{Action=stop, LoginUID unknown, PID unknown}"
+3月 07 01:03:34 jy-server23 dockerd-current[3475]: [55B blob data]
+3月 08 00:00:00 jy-server23 dockerd-current[3475]: time="2018-03-08T00:00:00.604211249+08:00" level=info msg="{Action=stop, LoginUID unknown, PID unknown}"
+3月 08 20:42:00 jy-server23 dockerd-current[3475]: [55B blob data]
+3月 08 20:42:00 jy-server23 dockerd-current[3475]: [55B blob data]
+3月 09 00:00:00 jy-server23 dockerd-current[3475]: time="2018-03-09T00:00:00.261250727+08:00" level=info msg="{Action=stop, LoginUID unknown, PID unknown}"
+3月 09 01:03:16 jy-server23 dockerd-current[3475]: [55B blob data]
+3月 09 19:04:26 jy-server23 dockerd-current[3475]: [55B blob data]
+3月 09 19:04:26 jy-server23 dockerd-current[3475]: [55B blob data]
+3月 10 00:00:00 jy-server23 dockerd-current[3475]: time="2018-03-10T00:00:00.767035997+08:00" level=info msg="{Action=stop, LoginUID unknown, PID unknown}"
+3月 10 18:05:41 jy-server23 dockerd-current[3475]: [55B blob data]
+3月 10 18:05:41 jy-server23 dockerd-current[3475]: [55B blob data]
+3月 10 18:05:41 jy-server23 dockerd-current[3475]: [55B blob data]
+3月 11 00:00:00 jy-server23 dockerd-current[3475]: time="2018-03-11T00:00:00.966402278+08:00" level=info msg="{Action=stop, LoginUID unknown, PID unknown}"
+3月 11 01:03:37 jy-server23 dockerd-current[3475]: [55B blob data]
+3月 12 00:00:01 jy-server23 dockerd-current[3475]: time="2018-03-12T00:00:01.251842527+08:00" level=info msg="{Action=stop, LoginUID unknown, PID unknown}"
+3月 12 01:03:45 jy-server23 dockerd-current[3475]: [55B blob data]
+3月 12 11:10:06 jy-server23 dockerd-current[3475]: [54B blob data]
+3月 12 11:10:17 jy-server23 dockerd-current[3475]: [55B blob data]
+3月 13 00:00:00 jy-server23 dockerd-current[3475]: time="2018-03-13T00:00:00.621886571+08:00" level=info msg="{Action=stop, LoginUID unknown, PID unknown}"
+3月 13 18:55:21 jy-server23 dockerd-current[3475]: [54B blob data]
+3月 13 18:55:21 jy-server23 dockerd-current[3475]: [54B blob data]
+3月 13 23:59:59 jy-server23 dockerd-current[3475]: time="2018-03-13T23:59:59.748187181+08:00" level=info msg="{Action=stop, LoginUID unknown, PID unknown}"
+3月 14 01:03:16 jy-server23 dockerd-current[3475]: [55B blob data]
+3月 15 00:00:03 jy-server23 dockerd-current[3475]: time="2018-03-15T00:00:03.683113129+08:00" level=info msg="{Action=stop, LoginUID unknown, PID unknown}"
+3月 15 14:06:06 jy-server23 dockerd-current[3475]: [55B blob data]
+3月 15 16:08:02 jy-server23 dockerd-current[3475]: [55B blob data]
+3月 16 00:00:02 jy-server23 dockerd-current[3475]: time="2018-03-16T00:00:02.384894961+08:00" level=info msg="{Action=stop, LoginUID unknown, PID unknown}"
+3月 16 01:03:20 jy-server23 dockerd-current[3475]: [55B blob data]
+3月 16 03:46:50 jy-server23 dockerd-current[3475]: [55B blob data]
+3月 16 09:25:14 jy-server23 dockerd-current[3475]: [55B blob data]
+3月 17 00:00:00 jy-server23 dockerd-current[3475]: time="2018-03-17T00:00:00.150470726+08:00" level=info msg="{Action=stop, LoginUID unknown, PID unknown}"
+3月 18 00:00:01 jy-server23 dockerd-current[3475]: time="2018-03-18T00:00:01.885728654+08:00" level=info msg="{Action=stop, LoginUID unknown, PID unknown}"
+3月 18 01:03:28 jy-server23 dockerd-current[3475]: [55B blob data]
+3月 19 00:00:00 jy-server23 dockerd-current[3475]: time="2018-03-19T00:00:00.995961257+08:00" level=info msg="{Action=stop, LoginUID unknown, PID unknown}"
+3月 19 01:03:29 jy-server23 dockerd-current[3475]: [55B blob data]
+3月 19 08:40:35 jy-server23 dockerd-current[3475]: time="2018-03-19T08:40:35.701113089+08:00" level=info msg="{Action=stop, LoginUID unknown, PID unknown}"
+3月 19 08:55:04 jy-server23 dockerd-current[3475]: time="2018-03-19T08:55:04.614945815+08:00" level=info msg="{Action=stop, LoginUID unknown, PID unknown}"
+3月 19 08:56:43 jy-server23 dockerd-current[3475]: time="2018-03-19T08:56:43.023363978+08:00" level=info msg="{Action=stop, LoginUID unknown, PID unknown}"
+3月 19 08:58:53 jy-server23 dockerd-current[3475]: time="2018-03-19T08:58:53.090750627+08:00" level=info msg="{Action=stop, LoginUID unknown, PID unknown}"
+3月 19 11:11:06 jy-server23 dockerd-current[3475]: time="2018-03-19T11:11:06.287043392+08:00" level=info msg="{Action=logs, Username=xiedi, LoginUID=1012, PID=109350}"
+3月 19 11:11:22 jy-server23 dockerd-current[3475]: time="2018-03-19T11:11:22.091730383+08:00" level=info msg="{Action=logs, Username=xiedi, LoginUID=1012, PID=109862}"
+3月 19 11:11:29 jy-server23 dockerd-current[3475]: time="2018-03-19T11:11:29.437230417+08:00" level=info msg="{Action=logs, Username=xiedi, LoginUID=1012, PID=110106}"
+3月 19 11:11:37 jy-server23 dockerd-current[3475]: time="2018-03-19T11:11:37.717900601+08:00" level=info msg="{Action=logs, Username=xiedi, LoginUID=1012, PID=110497}"
+3月 19 11:14:05 jy-server23 dockerd-current[3475]: time="2018-03-19T11:14:05.633047766+08:00" level=info msg="{Action=logs, Username=xiedi, LoginUID=1012, PID=115708}"
+3月 19 11:14:17 jy-server23 dockerd-current[3475]: time="2018-03-19T11:14:17.003265860+08:00" level=info msg="{Action=logs, Username=xiedi, LoginUID=1012, PID=116103}"
+3月 19 11:14:26 jy-server23 dockerd-current[3475]: time="2018-03-19T11:14:26.841588072+08:00" level=info msg="{Action=logs, Username=xiedi, LoginUID=1012, PID=116397}"
+3月 19 11:14:34 jy-server23 dockerd-current[3475]: time="2018-03-19T11:14:34.757451020+08:00" level=info msg="{Action=logs, Username=xiedi, LoginUID=1012, PID=116805}"
+3月 19 11:14:40 jy-server23 dockerd-current[3475]: time="2018-03-19T11:14:40.863115067+08:00" level=error msg="Handler for GET /v1.24/containers/8837d08ec575f51]/json retur
+3月 19 11:14:43 jy-server23 dockerd-current[3475]: time="2018-03-19T11:14:43.076567630+08:00" level=info msg="{Action=logs, Username=xiedi, LoginUID=1012, PID=117107}"
+3月 19 11:14:53 jy-server23 dockerd-current[3475]: time="2018-03-19T11:14:53.680871116+08:00" level=info msg="{Action=logs, Username=xiedi, LoginUID=1012, PID=117455}"
+3月 19 11:15:14 jy-server23 dockerd-current[3475]: time="2018-03-19T11:15:14.806470137+08:00" level=info msg="{Action=logs, Username=xiedi, LoginUID=1012, PID=118168}"
+3月 19 11:15:17 jy-server23 dockerd-current[3475]: time="2018-03-19T11:15:17.471587474+08:00" level=info msg="{Action=logs, Username=liyang, LoginUID=1006, PID=118265}"
+3月 19 11:15:23 jy-server23 dockerd-current[3475]: time="2018-03-19T11:15:23.602856972+08:00" level=info msg="{Action=logs, Username=liyang, LoginUID=1006, PID=118426}"
+3月 19 11:16:41 jy-server23 dockerd-current[3475]: time="2018-03-19T11:16:41.507836413+08:00" level=info msg="{Action=logs, Username=xiedi, LoginUID=1012, PID=121170}"
+3月 19 12:27:29 jy-server23 dockerd-current[3475]: time="2018-03-19T12:27:29.737318970+08:00" level=info msg="{Action=logs, Username=xiedi, LoginUID=1012, PID=271751}"
+3月 19 12:27:33 jy-server23 dockerd-current[3475]: time="2018-03-19T12:27:33.703161776+08:00" level=info msg="{Action=logs, Username=xiedi, LoginUID=1012, PID=272002}"
+3月 19 12:38:11 jy-server23 dockerd-current[3475]: time="2018-03-19T12:38:11.944348789+08:00" level=error msg="Handler for GET /v1.24/containers/16d928e323/json returned er
+3月 19 12:38:11 jy-server23 dockerd-current[3475]: time="2018-03-19T12:38:11.945663110+08:00" level=error msg="Handler for GET /v1.24/images/16d928e323/json returned error:
+3月 19 12:38:11 jy-server23 dockerd-current[3475]: time="2018-03-19T12:38:11.946450014+08:00" level=info msg="{Action=16d928e323, Username=liyang, LoginUID=1006, PID=297380
+3月 19 12:38:11 jy-server23 dockerd-current[3475]: time="2018-03-19T12:38:11.970838575+08:00" level=error msg="Error getting task 16d928e323: This node is not a swarm manag
+3月 19 12:38:11 jy-server23 dockerd-current[3475]: time="2018-03-19T12:38:11.970877850+08:00" level=error msg="Handler for GET /v1.24/tasks/16d928e323 returned error: This 
+3月 19 12:38:25 jy-server23 dockerd-current[3475]: time="2018-03-19T12:38:25.092793565+08:00" level=error msg="Handler for GET /v1.24/containers/16d928e323/json returned er
+3月 19 12:38:25 jy-server23 dockerd-current[3475]: time="2018-03-19T12:38:25.093551951+08:00" level=error msg="Handler for GET /v1.24/images/16d928e323/json returned error:
+3月 19 12:38:25 jy-server23 dockerd-current[3475]: time="2018-03-19T12:38:25.094121788+08:00" level=info msg="{Action=16d928e323, Username=liyang, LoginUID=1006, PID=297857
+3月 19 12:38:25 jy-server23 dockerd-current[3475]: time="2018-03-19T12:38:25.094237761+08:00" level=error msg="Error getting task 16d928e323: This node is not a swarm manag
+3月 19 12:38:25 jy-server23 dockerd-current[3475]: time="2018-03-19T12:38:25.094257752+08:00" level=error msg="Handler for GET /v1.24/tasks/16d928e323 returned error: This 
+3月 19 12:44:07 jy-server23 dockerd-current[3475]: time="2018-03-19T12:44:07.600812708+08:00" level=error msg="Handler for GET /v1.24/containers/16d928e3/json returned erro
+3月 19 12:44:07 jy-server23 dockerd-current[3475]: time="2018-03-19T12:44:07.601982151+08:00" level=error msg="Handler for GET /v1.24/images/16d928e3/json returned error: N
+3月 19 12:44:07 jy-server23 dockerd-current[3475]: time="2018-03-19T12:44:07.602712222+08:00" level=info msg="{Action=16d928e3, Username=liyang, LoginUID=1006, PID=310024}"
+3月 19 12:44:07 jy-server23 dockerd-current[3475]: time="2018-03-19T12:44:07.602859086+08:00" level=error msg="Error getting task 16d928e3: This node is not a swarm manager
+3月 19 12:44:07 jy-server23 dockerd-current[3475]: time="2018-03-19T12:44:07.602883451+08:00" level=error msg="Handler for GET /v1.24/tasks/16d928e3 returned error: This no
+3月 19 12:44:12 jy-server23 dockerd-current[3475]: time="2018-03-19T12:44:12.540837426+08:00" level=error msg="Handler for GET /v1.24/containers/16d928e3/json returned erro
+3月 19 12:44:12 jy-server23 dockerd-current[3475]: time="2018-03-19T12:44:12.541987626+08:00" level=error msg="Handler for GET /v1.24/images/16d928e3/json returned error: N
+3月 19 12:44:12 jy-server23 dockerd-current[3475]: time="2018-03-19T12:44:12.542591304+08:00" level=info msg="{Action=16d928e3, Username=liyang, LoginUID=1006, PID=310175}"
+3月 19 12:44:12 jy-server23 dockerd-current[3475]: time="2018-03-19T12:44:12.542748214+08:00" level=error msg="Error getting task 16d928e3: This node is not a swarm manager
+3月 19 12:44:12 jy-server23 dockerd-current[3475]: time="2018-03-19T12:44:12.542791820+08:00" level=error msg="Handler for GET /v1.24/tasks/16d928e3 returned error: This no
+3月 19 13:54:29 jy-server23 dockerd-current[3475]: time="2018-03-19T13:54:29.764760557+08:00" level=info msg="{Action=stop, Username=liyang, LoginUID=1006, PID=58531}"
+3月 19 14:04:05 jy-server23 dockerd-current[3475]: time="2018-03-19T14:04:05.719140275+08:00" level=info msg="{Action=remove, Username=liyang, LoginUID=1006, PID=80964}"
+3月 19 14:08:32 jy-server23 dockerd-current[3475]: time="2018-03-19T14:08:32.262578168+08:00" level=info msg="{Action=remove, Username=liyang, LoginUID=1006, PID=90753}"
+3月 19 14:09:04 jy-server23 dockerd-current[3475]: time="2018-03-19T14:09:04.774564541+08:00" level=info msg="{Action=remove, Username=liyang, LoginUID=1006, PID=91914}"
+3月 19 14:22:15 jy-server23 dockerd-current[3475]: time="2018-03-19T14:22:15.942908291+08:00" level=info msg="{Action=kill, Username=liyang, LoginUID=1006, PID=120216}"
+3月 19 14:23:27 jy-server23 dockerd-current[3475]: time="2018-03-19T14:23:27.022234977+08:00" level=info msg="{Action=restart, Username=liyang, LoginUID=1006, PID=122739}"
+3月 19 14:24:50 jy-server23 dockerd-current[3475]: time="2018-03-19T14:24:50.547324520+08:00" level=info msg="{Action=remove, Username=liyang, LoginUID=1006, PID=125847}"
+3月 19 14:59:33 jy-server23 dockerd-current[3475]: time="2018-03-19T14:59:33.400699572+08:00" level=info msg="{Action=remove, Username=xiedi, LoginUID=1012, PID=200978}"
+3月 19 15:59:58 jy-server23 dockerd-current[3475]: [55B blob data]
+3月 19 16:11:23 jy-server23 dockerd-current[3475]: time="2018-03-19T16:11:23.092403588+08:00" level=info msg="{Action=stop, Username=liyang, LoginUID=1006, PID=353969}"
+3月 19 16:11:37 jy-server23 dockerd-current[3475]: time="2018-03-19T16:11:37.688646960+08:00" level=info msg="{Action=remove, Username=liyang, LoginUID=1006, PID=354571}"
+3月 19 20:05:17 jy-server23 dockerd-current[3475]: [55B blob data]
+3月 19 20:05:17 jy-server23 dockerd-current[3475]: [55B blob data]
+3月 19 20:05:33 jy-server23 dockerd-current[3475]: [54B blob data]
+3月 19 20:05:33 jy-server23 dockerd-current[3475]: [54B blob data]
+3月 20 00:00:02 jy-server23 dockerd-current[3475]: time="2018-03-20T00:00:02.105580885+08:00" level=info msg="{Action=stop, LoginUID unknown, PID unknown}"
+3月 20 01:03:24 jy-server23 dockerd-current[3475]: [55B blob data]
+3月 20 12:54:00 jy-server23 dockerd-current[3475]: [55B blob data]
+3月 20 12:54:00 jy-server23 dockerd-current[3475]: [55B blob data]
+3月 20 14:31:34 jy-server23 dockerd-current[3475]: [55B blob data]
+3月 21 00:00:00 jy-server23 dockerd-current[3475]: time="2018-03-21T00:00:00.982884950+08:00" level=info msg="{Action=stop, LoginUID unknown, PID unknown}"
+3月 21 01:03:38 jy-server23 dockerd-current[3475]: [55B blob data]
+3月 21 09:36:35 jy-server23 dockerd-current[3475]: [55B blob data]
+3月 21 11:08:11 jy-server23 dockerd-current[3475]: [55B blob data]
+3月 22 00:00:02 jy-server23 dockerd-current[3475]: time="2018-03-22T00:00:02.277871608+08:00" level=info msg="{Action=stop, LoginUID unknown, PID unknown}"
+3月 22 14:26:22 jy-server23 dockerd-current[3475]: [55B blob data]
+3月 22 14:26:23 jy-server23 dockerd-current[3475]: [55B blob data]
+3月 22 16:30:34 jy-server23 dockerd-current[3475]: [55B blob data]
+3月 22 17:53:57 jy-server23 dockerd-current[3475]: [55B blob data]
+3月 22 18:00:34 jy-server23 dockerd-current[3475]: [55B blob data]
+3月 22 18:04:49 jy-server23 dockerd-current[3475]: time="2018-03-22T18:04:49.053909725+08:00" level=info msg="{Action=stop, LoginUID unknown, PID unknown}"
+3月 22 18:06:59 jy-server23 dockerd-current[3475]: time="2018-03-22T18:06:59.161352939+08:00" level=info msg="{Action=stop, LoginUID unknown, PID unknown}"
+3月 22 23:59:59 jy-server23 dockerd-current[3475]: time="2018-03-22T23:59:59.889298022+08:00" level=info msg="{Action=stop, LoginUID unknown, PID unknown}"
+3月 23 07:35:44 jy-server23 dockerd-current[3475]: [55B blob data]
+3月 23 09:59:46 jy-server23 dockerd-current[3475]: [55B blob data]
+3月 23 09:59:46 jy-server23 dockerd-current[3475]: [55B blob data]
